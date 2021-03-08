@@ -10,7 +10,7 @@
 | **🎓Education** | 2016. 3 ~ 2020. 2 | Department of Computer Software | **KwangWoon University** |
 **📚External activities** | 2019. 06 ~ 2019. 08 | iOS App Design to Develop Course | **CodersHigh** |
 | **🏢Employment** | 2019. 09 ~ 2020. 11 | Web Full-stack | **Cafe24(ezadmin)** |
-| **🧑🏻‍💻Freelance** | 2020. 01 ~ 2020. 03 | App Front-end<br>[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=App%20Store&logoColor=white)](https://apps.apple.com/kr/app/powerlog/id1500605026) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=Google%20Play&logoColor=white)](https://apps.apple.com/kr/app/powerlog/id1500605026)  | **미소짓다** |
+| **🧑🏻‍💻Freelance** | 2020. 01 ~ 2020. 03 | App Front-end<br>[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=App%20Store&logoColor=white)](https://apps.apple.com/kr/app/powerlog/id1500605026) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dynamiccare)  | **미소짓다** |
 | **📚External activities** | 2021. 02 ~ | Yagom iOS career starter camp | **YagomAcademy** |
 
 <!-- ### 🏆 Award
