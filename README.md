@@ -26,7 +26,7 @@
 ### 💻 Skill
 ![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=JavaScript&logoColor=white) 
 <br>![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/SWIFT%20&%20iOS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=ios&logoColor=white)
-<br>![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=React&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+<br>![ReactNative](https://img.shields.io/badge/ReactNative-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=React&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 
 
 ### 📬 Contacts
