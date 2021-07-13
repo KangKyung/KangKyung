@@ -26,12 +26,12 @@
 **👨🏻‍🎓scholarship** | 2019. 10 | Selection of talented scholarship students | **KwangWoon University** | 
 -->
 
-<!--
+
 ### 💻 Skill
-![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=JavaScript&logoColor=white) 
-<br>![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/SWIFT%20&%20iOS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=ios&logoColor=white)
-<br>![ReactNative](https://img.shields.io/badge/ReactNative-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=React&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
--->
+![iOS](https://img.shields.io/badge/SWIFT%20&%20iOS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=ios&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=JavaScript&logoColor=white) 
+<br>![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=android&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=React&logoColor=white)
+<br>![mysql](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+
 
 ### 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k2h0508@gmail.com)](mailto:k2h0508@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kkyung.h)](https://www.instagram.com/kkyung.h) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyung-kang-62a670177/)](https://www.linkedin.com/in/kyung-kang-62a670177/) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-181717?style=flat-square&logo=github&link=https://bekangkyung.tistory.com/)](https://bekangkyung.tistory.com/)
