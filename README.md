@@ -35,5 +35,9 @@
 <br>![mysql](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=mysql&logoColor=white) ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 -->
 
+<!--
 ### 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k2h0508@gmail.com)](mailto:k2h0508@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kangkyung.os)](https://www.instagram.com/kangkyung.os) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyunghoon-kang-62a670177/)](https://www.linkedin.com/in/kyunghoon-kang-62a670177/) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-181717?style=flat-square&logo=github&link=https://bekangkyung.tistory.com/)](https://bekangkyung.tistory.com/)
+-->
+
+iOS developer who finishes a marathon in 3:29:20
