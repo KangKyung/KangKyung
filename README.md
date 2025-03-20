@@ -40,4 +40,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k2h0508@gmail.com)](mailto:k2h0508@gmail.com) [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kangkyung.os)](https://www.instagram.com/kangkyung.os) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyunghoon-kang-62a670177/)](https://www.linkedin.com/in/kyunghoon-kang-62a670177/) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-181717?style=flat-square&logo=github&link=https://bekangkyung.tistory.com/)](https://bekangkyung.tistory.com/)
 -->
 
-🏃🏻‍♂️iOS developer who [finishes a marathon in 3:29:20](https://smartchip.co.kr/return_data_livephoto.asp?usedata=202450000005&nameorbibno=13075)
+🏃🏻‍♂️iOS developer who [finishes a marathon in 3:24:45](https://smartchip.co.kr/return_data.asp?nameorbibno=12501&usedata=202550000009)
